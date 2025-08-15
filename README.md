@@ -1,6 +1,6 @@
 ## MelodiousZero 👋
 Hi, I'm a software developer with years of experience and I'm passionate about DIY proyects, open source software, modding old consoles, electronics.
-[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,azure,bitbucket,c,docker,fastapi,flask,git,github,gitlab,githubactions,gmail,graphql,ai,java,jenkins,kubernetes,linkedin,linux,matlab,mysql,mongodb,postgres,postman,powershell,py,rt,raspberrypi,react,regex,replit,sklearn,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,azure,bitbucket,c,docker,fastapi,flask,git,github,gitlab,githubactions,gmail,graphql,ai,java,jenkins,kubernetes,linkedin,linux,matlab,mysql,mongodb,postgres,postman,powershell,py,r,raspberrypi,react,regex,replit,sklearn,vscode,)](https://skillicons.dev)
 
 🌱 I’m currently learning 3D printing modelling so I can make some DIY proyects (particularly I want to make a mechanical keyboard version of this [old gamecube controller](https://gccontrollerlibrary.com/ascii-asc-1901po-gamecube-controller/)
 
