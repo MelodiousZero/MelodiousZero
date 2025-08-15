@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=arduino,html,css,azure,bitbucket,c,docker,fastapi,flask,git,github,gitlab,githubactions,gmail,graphql,ai,java,jenkins,kubernetes,linkedin,linux,matlab,mysql,mongodb,postgres,postman,powershell,py,rt,raspberrypi,react,regex,replit,sklearn,vscode,)](https://skillicons.dev)
 <!--
 **MelodiousZero/MelodiousZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
